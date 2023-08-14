@@ -1,4 +1,4 @@
-# Tableau-Projects
+# Covid 19 Cases Tracker 2020
 Tableau
 Data Source : https://data.world/covid-19-data-resource-hub/covid-19-case-counts
 
